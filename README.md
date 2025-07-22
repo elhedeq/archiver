@@ -1,5 +1,7 @@
 # Archiver
 
+![main window](./app%20screen.png)
+
 Archiver is a desktop application for managing and archiving letters (PDFs) with a user-friendly graphical interface fully in arabic.
 
 ## Features
